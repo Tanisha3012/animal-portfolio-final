@@ -1,0 +1,51 @@
+body
+{
+margin: 0 auto;
+width: 800px;
+}
+ul
+{
+list-style-type: none;
+}
+.heading
+{
+font-family: comic sans MS;
+color: salmon;
+}
+#out
+{
+background-color: beige;
+}
+.para
+{
+font-style: italic;
+}
+span
+{
+color: crimson;
+}
+#puppy
+{
+border: 2px solid grey;
+padding: 20px;
+margin:30px;
+font-size: 18px;
+font-family: sans-serif;
+}
+#img
+{
+border: 3px dotted grey;
+display: block;
+margin: auto;
+}
+.details
+{
+border: 2px solid black;
+padding: 25px;
+margin: 50px;
+}
+h1
+{
+border: 4px groove red;
+padding: 5px;
+}
